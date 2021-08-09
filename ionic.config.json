@@ -1,0 +1,7 @@
+{
+  "name": "inifinite-scroll-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
